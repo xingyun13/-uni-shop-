@@ -1,10 +1,10 @@
 <template>
   <view>
-    cart
+    goods_list
   </view>
 </template>
 
-<script lang="scss">
+<script>
   export default {
     data() {
       return {
